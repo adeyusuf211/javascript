@@ -1,0 +1,134 @@
+[
+    {
+        "DATA_KELUARGA": {
+            "KELUARGA": {
+                "NIK": 3201121306071538,
+                "RT_RW": "004/006",
+                "DATA": {
+                    "LOKASI_DAN_PEMUKIMAN": {
+                        "Nama": "Sumintra",
+                        "Alamat": "Salabenda Ampera Sasak RT 004 / RW 006",
+                        "NIK_kepala_keluarga": 3201121506560010,
+                        "NO_Hp": "087872381378",
+                        "Status_rumah": "Punya sendiri",
+                        "Status_tanah": "Punya sendiri",
+                        "Luas_lantai": 60,
+                        "Luas_tanah": 70,
+                        "Jenis_lantai": "Keramik",
+                        "Dinding": "Semen",
+                        "Jendela": "Ada",
+                        "Atap": "Genteng",
+                        "Penerangan_rumah": "Listrik PLN",
+                        "Energi_memasak": "Gas",
+                        "Pembuangan_sampah": "Diangkut",
+                        "MCK": "Punya sendiri",
+                        "Fasilitas_BAB": "Jamban sendiri",
+                        "Sumber_air_mandi": "Sumur",
+                        "Sumber_air_minum": "Sumur",
+                        "Pembuangan_air_limbah": "Tangki",
+                        "Rumah_dibawah_sutet": "Tidak",
+                        "Rumah_dibantaran_sungai": "Tidak",
+                        "Kondisi_rumah": "Tidak kumuh"
+                    },
+                    "AKSES_PENDIDIKAN": {
+                        "Fasilitas": {
+                            "PAUD": {
+                                "Jarak_tempuh": "0.5 KM",
+                                "Waktu_tempuh": "0.16 Jam",
+                                "Kemudahan": "Mudah"
+                            },
+                            "Perguruan_Tinggi": {
+                                "Jarak_tempuh": "7.1 KM",
+                                "Waktu_tempuh": "0.5 Jam",
+                                "Kemudahan": "Mudah"
+                            }
+                        }
+                    },
+                    "AKSES_KESEHATAN": {
+                        "Fasilitas": {
+                            "Apotik": {
+                                "Jarak_tempuh": "0.2 KM",
+                                "Waktu_tempuh": "0.08 Jam",
+                                "Kemudahan": "Mudah"
+                            },
+                            "Posyandu": {
+                                "Jarak_tempuh": "0.1 KM",
+                                "Waktu_tempuh": "0.08 Jam",
+                                "Kemudahan": "Mudah"
+                            },
+                            "Puskesmas": {
+                                "Jarak_tempuh": "2.7 KM",
+                                "Waktu_tempuh": "0.5 Jam",
+                                "Kemudahan": "Mudah"
+                            },
+                            "Rumah_Sakit": {
+                                "Jarak_tempuh": "4.2 KM",
+                                "Waktu_tempuh": "0.5 Jam",
+                                "Kemudahan": "Mudah"
+                            }
+                        }
+                    },
+                    "AKSES_TENAGA_KESEHATAN": {
+                        "Fasilitas": {
+                            "Dokter_Spesialis": {
+                                "Jarak_tempuh": "1 KM",
+                                "Waktu_tempuh": "0.16 Jam",
+                                "Kemudahan": "Mudah"
+                            },
+                            "Dokter_Umum": {
+                                "Jarak_tempuh": "1 KM",
+                                "Waktu_tempuh": "0.16 Jam",
+                                "Kemudahan": "Mudah"
+                            },
+                            "Bidan": {
+                                "Jarak_tempuh": "1 KM",
+                                "Waktu_tempuh": "0.16 Jam",
+                                "Kemudahan": "Mudah"
+                            }
+                        }
+                    },
+                    "AKSES_SARANA_PRASARANA": {
+                        "Fasilitas": {
+                            "Lokasi_Pekerjaan_Utama": {
+                                "Jenis_Transportasi": "Darat",
+                                "Penggunaan_Transportasi_Umum": "Tidak",
+                                "Waktu_Tempuh_Sekali_Jalan": "0.5 Jam",
+                                "Biaya_Sekali_Jalan": 0,
+                                "Kemudahan": "Mudah"
+                            },
+                            "Sekolah": {
+                                "Jenis_Transportasi": "Darat",
+                                "Penggunaan_Transportasi_Umum": "Ya",
+                                "Waktu_Tempuh_Sekali_Jalan": "0.5 Jam",
+                                "Biaya_Sekali_Jalan": 6000,
+                                "Kemudahan": "Mudah"
+                            },
+                            "Rekreasi_Terdekat": {
+                                "Jenis_Transportasi": "Darat",
+                                "Penggunaan_Transportasi_Umum": "Ya",
+                                "Waktu_Tempuh_Sekali_Jalan": "0.16 Jam",
+                                "Biaya_Sekali_Jalan": 6000,
+                                "Kemudahan": "Mudah"
+                            }
+                        }
+                    },
+                    "LAIN_LAIN": {
+                        "Jumlah_Anggota_Keluarga_Yang_Naik_Kendaraan_Umum_Sebulan_Terakhir": 3,
+                        "Jumlah_Anggota_Keluarga_Yang_Naik_Kendaraan_Umum_Bulan_Sebelumnya": 1,
+                        "Penerima_Program_Pemerintah": {
+                            "BLT": false,
+                            "Program_Keluarga_Harapan": true,
+                            "Bantuan_Sosial_Tunai": true,
+                            "Bantuan_Presiden": false,
+                            "Bantuan_UMKM": false,
+                            "Bantuan_Untuk_Pekerja": false,
+                            "Bantuan_Pendidikan_Anak": true,
+                            "Lainnya": false
+                        },
+                        "Pengeluaran_Satu_Bulan": 2400000
+                    }
+                }
+            }
+        }
+    }
+]

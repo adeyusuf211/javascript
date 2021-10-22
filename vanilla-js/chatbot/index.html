@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="chat-bar-collapsible">
+		<button id="chat-button" class="collapsible" type="button">Chat With Us</button>
+		<div class="content">
+			<div class="full-chat-block">
+				<div class="outer-container">
+					<div class="chat-container">
+						<div id="chatbox">
+							<h5 id="chat-timestamp"></h5>
+							<p id="bot-starter-message" class="bot-text"><span>Loading...</span></p>
+						</div>
+						<div class="chat-bar-input-block">
+							<div id="user-input" class="user-chat">
+								<input type="text" id="text-input" class="input-box" name="message" placeholder="Type your message">
+								<p></p>
+							</div>
+							<div class="chat-bar-button">
+								<button onclick="sendButton()">Kirim</button>
+							</div>
+						</div>
+						<div id="chat-bar-bottom">
+							<p></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script src="script.js"></script>
+</body>
+</html>
